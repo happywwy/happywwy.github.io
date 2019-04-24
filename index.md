@@ -1,5 +1,3 @@
-## Welcome to the this tutorial site. It contains all necessary information to learn about this tutorial.
-
 ### Description
 
 Fine-grained opinion mining (also called aspect-based sentiment analysis) aims at extracting knowledge about opinion targets (aspects), opinion holders and the opinions/sentiments expressed towards them, leading to structured opinion summaries. This task proves to be more crucial and challenging by providing a thorough analysis of an opinionated text, yet is under-discussed in the community compared to overall sentiment score classification. This tutorial aims at reviewing existing works in this field that covers 3 main subtasks, namely aspect-based sentiment classification, aspect-related extraction and summarization. We introduce various model constructions, including feature-based, rule-based and deep-learning-based models, that focus on exploiting complex word-level interactions among an input text and promote the generality of these methods to be adopted for efficient knowledge extraction. Besides single-domain studies, a further step is to explore cross-domain, cross-lingual and multi-modal strategies. Although much more challenging, these alternatives promote the development of fine-grained opinion mining, because there are only limited resources available with fine-grained annotations in real industries. We introduce a few existing studies and aim to provide more insights towards these cutting-edge research directions. 
@@ -19,21 +17,14 @@ Fine-grained opinion mining (also called aspect-based sentiment analysis) aims a
 
 ### (Tentative) Outline
 
-```markdown
-# Introduction to fine-grained opinion analysis
-## Header 2
-### Header 3
+# 1. Introduction to fine-grained opinion analysis
+# 2. Aspect-level sentiment classification
+# 3. Aspect extraction
+# 4. Opinion summarization
+# 5. Going further
+## - Cross-domain
+## - Cross-lingual
+## - Multimodal
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
