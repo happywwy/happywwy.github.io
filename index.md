@@ -17,14 +17,14 @@ Fine-grained opinion mining (also called aspect-based sentiment analysis) aims a
 
 ### (Tentative) Outline
 
-# 1. Introduction to fine-grained opinion analysis
-# 2. Aspect-level sentiment classification
-# 3. Aspect extraction
-# 4. Opinion summarization
-# 5. Going further
-## - Cross-domain
-## - Cross-lingual
-## - Multimodal
+1. Introduction to fine-grained opinion analysis
+2. Aspect-level sentiment classification
+3. Aspect extraction
+4. Opinion summarization
+5. Going further
+   - Cross-domain
+   - Cross-lingual
+   - Multimodal
 
 
 
