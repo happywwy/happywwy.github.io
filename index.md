@@ -15,7 +15,8 @@ Fine-grained opinion mining (also called aspect-based sentiment analysis) aims a
 [Jing Jiang](http://www.mysmu.edu/faculty/jingjiang/): An Associate Professor of Information Systems at Singapore Management University (SMU), Singapore. Her research interests include information extraction, sentiment analysis, question answering, text mining and social media analysis.
 
 ### Slides
-[PARTI on aspect-based extraction and opinion summarization](http://happywwy.github.io/fine-grained-opinion-mining-part1.pdf)
+[PART I on aspect-based extraction and opinion summarization](http://happywwy.github.io/fine-grained-opinion-mining-part1.pdf)
+[PART II on target-oriented sentiment prediction and cutting-edge dimensions](http://happywwy.github.io/fine-grained-opinion-mining-part2.pdf)
 
 ### Outline
 
